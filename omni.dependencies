@@ -1,8 +1,14 @@
 [
   {
+    "remote": "github",
+    "repository": "cherifyass/android_device_lge_hammerhead",
+    "target_path": "device/lge/hammerhead",
+    "revision": "android-6.0"
+  },
+  {
     "remote": "omnirom",
-    "repository": "android_kernel_lge_hammerhead",
+    "repository": "cherifyass/android_kernel_lge_hammerhead",
     "target_path": "kernel/lge/hammerhead",
-    "revision": "android-5.1"
+    "revision": "android-6.0"
   }
 ]
